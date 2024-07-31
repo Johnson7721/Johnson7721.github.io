@@ -109,16 +109,7 @@
       "code": "https://drive.google.com/file/d/1F1khAN2bWFNaRVSk2JkfAJ-5Dfy-oHiE/view?usp=sharing"
     }
   },
-  {
-    "name": "Online Travel Agency",
-    "desc": "An Travel Web Application, Long-term planning and rich package,built using HTML,CSS,Javascript",
-    "image": "cryptotracker",
-    "category": "mern",
-    "links": {
-      "view": "https://docs.google.com/document/d/1MT6lanGRU_edRc1RyowwBiIAefKtX7Oi/edit?usp=sharing&ouid=105046743612700327158&rtpof=true&sd=true",
-      "code": "https://docs.google.com/document/d/1MT6lanGRU_edRc1RyowwBiIAefKtX7Oi/edit?usp=sharing&ouid=105046743612700327158&rtpof=true&sd=true"
-    }
-  },
+  
   {
     "desc": "This is the voting system that allow to vote on the year of the teacher. Admin can manage the candidate,student,and the staff data by CRUD using ADT to get the data and store or update the data. Built using Java Data Structure Algorithm",
     "name": "Voting System",
