@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["Full Stack Development","Frontend Development", "Backend Development", "Mobile development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -190,15 +190,15 @@ document.onkeydown = function (e) {
     }
 }
 
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/66a9a11b1601a2195b9e8010/1i439ql3n';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
+// var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+// (function(){
+// var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+// s1.async=true;
+// s1.src='https://embed.tawk.to/66a9a11b1601a2195b9e8010/1i439ql3n';
+// s1.charset='UTF-8';
+// s1.setAttribute('crossorigin','*');
+// s0.parentNode.insertBefore(s1,s0);
+// })();
 // Start of Tawk.to Live Chat
 // var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 // (function () {
