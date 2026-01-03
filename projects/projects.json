@@ -1,0 +1,33 @@
+[
+    {
+    "name": "Clothes Detect system",
+    "desc": "Dress code verification. Built using Phython,Train Model,Dataset.",
+    "image": "clothes",
+    "category": "system",
+    "links": {
+      "view": "https://docs.google.com/document/d/1eUtPAvrQbE5TcWcLoKAFbtgdqW-mkCFQ/edit#heading=h.gjdgxs",
+      "code": "https://drive.google.com/file/d/1Hau1MXeRHJxitzoA66D8Y-hKHuR-ELfT/view?usp=drive_link"
+    }
+  },
+  {
+    "name": "Computer Science Event Society Application",
+    "desc": "Web Application for Society Computer Science. Built using PHP, Apache Tomcat & PhpAdmin.",
+    "image": "computersociety",
+    "category": "web",
+    "links": {
+      "view": "https://docs.google.com/document/d/1yj75RNyGsYKRc4po6KtmdzE0EVDS9PBD/edit?usp=drive_link&ouid=105046743612700327158&rtpof=true&sd=true",
+      "code": "https://drive.google.com/file/d/16GJupYubh5d0T0YKdtWlz2i171QDTFJ-/view?usp=drive_link"
+    }
+  },
+  {
+    "name": "Food Ordering System",
+    "desc": "An Web Application for food order system,allow place food order, allow merchant to control  food category. Built using C# Asp.Net Framework",
+    "image": "foodrestaurant",
+    "category": "web",
+    "links": {
+      "view": "https://docs.google.com/document/d/17iIrnQLxhVZdUVqSYTIdYEbJMe6RnViN/edit?usp=sharing&ouid=105046743612700327158&rtpof=true&sd=true",
+      "code": "https://drive.google.com/file/d/1qIQyXFhk62XzkWhHiA7mW59joY8w8OSH/view?usp=sharing"
+    }
+  }
+ 
+]
