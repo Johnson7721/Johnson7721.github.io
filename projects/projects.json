@@ -1,5 +1,15 @@
 [
   {
+    "name": "NexaAI Support Bot",
+    "desc": "AI-powered support assistant integrated with portfolio. Streamlit-based chatbot that answers questions about projects, experience, and skills. Built using Python & Streamlit.",
+    "image": "aibot",
+    "category": "ai",
+    "links": {
+      "view": "https://nexaai-support-bot-jmblt4ydc9avfuqgfmpfo8.streamlit.app/",
+      "code": "https://nexaai-support-bot-jmblt4ydc9avfuqgfmpfo8.streamlit.app/"
+    }
+  },
+  {
     "name": "Clothes Detect system",
     "desc": "Dress code verification. Built using Phython,Train Model,Dataset.",
     "image": "clothes",
