@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Clothes Detect system",
     "desc": "Dress code verification. Built using Phython,Train Model,Dataset.",
     "image": "clothes",
@@ -29,5 +29,4 @@
       "code": "https://drive.google.com/file/d/1qIQyXFhk62XzkWhHiA7mW59joY8w8OSH/view?usp=sharing"
     }
   }
- 
 ]
